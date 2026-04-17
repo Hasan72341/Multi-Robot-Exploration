@@ -1,0 +1,23 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ROS 2 / colcon build artifacts
+build/
+install/
+log/
+multi-robot-exploration-rl/build/
+multi-robot-exploration-rl/install/
+multi-robot-exploration-rl/log/
+
+# IDE
+.idea/
+.vscode/
+
+# Runtime files
+*.log
